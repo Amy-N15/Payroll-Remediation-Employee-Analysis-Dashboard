@@ -12,7 +12,7 @@
 
 | Employee Analysis                                              |
 | -------------------------------------------------------------- |
-| ![Employee Analysis](assets/screenshots/employee-analysis.png) |
+| <img width="913" height="509" alt="image" src="https://github.com/user-attachments/assets/d231a713-6c0a-484b-9991-3604b507289e" />
 
 ---
 
