@@ -135,6 +135,8 @@ This dashboard was developed to:
 * Annual leave represents the largest leave category and should be monitored to manage future leave liabilities.
 
 📄 Full business findings and remediation recommendations are available in [Insights Summary](docs/insights_summary.md).
+
+
 ---
 
 
