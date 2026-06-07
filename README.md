@@ -134,8 +134,9 @@ This dashboard was developed to:
 * Employees accumulated over 2,000 leave hours across 378 leave records.
 * Annual leave represents the largest leave category and should be monitored to manage future leave liabilities.
 
----
 📄 Full business findings and remediation recommendations are available in [Insights Summary](docs/insights_summary.md).
+---
+
 
 ## 📊 Project Outcomes
 
