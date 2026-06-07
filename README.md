@@ -6,11 +6,9 @@
 
 ## 📊 Dashboard Preview
 
-> Add dashboard screenshots to `assets/screenshots/` and update the image paths below.
-
-| Executive Overview                           | Payroll Analysis                                    |
-| -------------------------------------------- | --------------------------------------------------- |
-| ![Overview](assets/screenshots/overview.png) | ![Payroll](assets/screenshots/payroll-analysis.png) |
+| Payroll Remediation                                    |
+| --------------------------------------------------- |
+| <img width="911" height="513" alt="image" src="https://github.com/user-attachments/assets/4f7cc597-bb6a-44eb-8e3f-5ea19efae4f2" />|
 
 | Employee Analysis                                              |
 | -------------------------------------------------------------- |
