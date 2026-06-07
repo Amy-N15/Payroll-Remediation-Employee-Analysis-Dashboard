@@ -151,7 +151,7 @@ This dashboard was developed to:
 ```text
 payroll-remediation-dashboard/
 │
-├── data/
+├── datasets/
 │   ├── employee_details.csv
 │   ├── contract_details.csv
 │   ├── timesheet.csv
@@ -175,7 +175,7 @@ payroll-remediation-dashboard/
 │
 ├── Payroll_Remediation___Employee_Analysis_Dashboard.pbix
 ├── README.md
-└── .gitignore
+
 ```
 
 ---
@@ -200,8 +200,7 @@ payroll-remediation-dashboard/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/payroll-remediation-dashboard.git
-cd payroll-remediation-dashboard
+git clone https://github.com/Amy-N15/Payroll-Remediation-Employee-Analysis-Dashboard.git
 ```
 
 ### Open the Report
